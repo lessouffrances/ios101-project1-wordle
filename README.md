@@ -19,13 +19,9 @@ The following **optional** features are implemented:
 - [x] Improve and customize the user interface by adding a launch screen and app icon
 - [x] Run the app on a device rather than in the simulator
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
-[Guide]](https://cdn.loom.com/sessions/thumbnails/0d74a1d19d7b4b428fe6dab36eea0bb9-with-play.gif)
+[Guide](https://cdn.loom.com/sessions/thumbnails/0d74a1d19d7b4b428fe6dab36eea0bb9-with-play.gif)
 (https://www.loom.com/embed/0d74a1d19d7b4b428fe6dab36eea0bb9?sid=9b191e20-5189-40fb-babc-6db5be3f3f76)
 
 ## Notes
