@@ -1,5 +1,3 @@
-# ios101-project1-wordle
-
 # Project 1 - *wordle*
 
 Submitted by: **Panyu Dong**
